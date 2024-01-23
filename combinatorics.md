@@ -24,6 +24,16 @@ Given a set of $n$ distinct objects, let $C$ be the set of combinations of $k$ o
 
 With regards to subsets, the number of permutations of $k$ objects from a set of $n$ objects is $n!/(n-k)!$. For each subset of $k$ objects from the set of $n$ objects, there are $k!$ permuations of that subset. Therefore, the number of combinations of $k$ objects from a set of $n$ objects is $n!/(k!(n-k)!)$.
 
+<h6>Binomial Theorem</h6>
+
+Combinatorics is used to count expand polynomials.
+
+<h6>Principle of Inclusion and Exclusion</h6>
+
+<h6>Commonly Appearing Combinatorics Word Problems</h6>
+
+Worth mentioning is that there are commonly appearing combinatorics word problems relating to other topics in mathematics, such as color parity, graph traversal, recursion, distribution of objects into bins, partition of an integer, pigeonhole principle, and grid walking.
+
 _Ref._ Combinatorics. Brilliant.org. Retrieved 17:22, January 23, 2024, from https://brilliant.org/wiki/combinatorics/
 
 _Ref._ Principle of Inclusion and Exclusion (PIE). Brilliant.org. Retrieved 22:55, January 23, 2024, from https://brilliant.org/wiki/principle-of-inclusion-and-exclusion-pie/
