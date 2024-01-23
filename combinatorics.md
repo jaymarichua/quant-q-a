@@ -38,9 +38,9 @@ Worth mentioning is that there are commonly appearing combinatorics word problem
 
 <h6>Number of ways to put objects into bins</h6>
 
-Forming an intuition with combinatorics word problems comes with experience, but another way to approach the problems is by thinking of the combination as a selection of two sets of items as we are counting those that go into the chosen bin, $k$, and counting those that go into the unchosen bin, $n-k$. This can be generalized to any number of bins with the constraint that every item must go to exactly one bin. Note that the number of ways to put objects into bins is given by the multinomial coefficient.
+Forming an intuition with combinatorics word problems comes with experience, but another way to approach the problems is by thinking of the combination as a selection of two sets of items as we are counting those that go into the chosen bin, $k$, and counting those that go into the unchosen bin, $n-k$. This can be generalized to any number of bins with the constraint that every item must go to exactly one bin. Note that the number of ways to put objects into bins is given by the multinomial coefficient. $$\binom{n}{k_1,k_2,...,k_m}=\frac{n!}{k_1!k2!...k_m!}$$, where $k_1!k_2!...k_m$ distinct numberings, and the number of equivalence classes is $\frac{n!}{k_1!k_2!...k_m!}$ 
 
-$$\binom{n}{k_1,k_2,...,k_m}=\frac{n!}{k_1!k2!...k_m!}$$
+
 
 <h5>References</h5>
 
