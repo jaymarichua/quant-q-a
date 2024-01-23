@@ -16,7 +16,7 @@ Bayes' Theorem
 
 `https://plato.stanford.edu/entries/bayes-theorem/`
 
-Conditional Probability and Expected Utility
+Conditional Probability and Expected Utility Theory
 
 `https://plato.stanford.edu/entries/rationality-normative-utility/`
 
