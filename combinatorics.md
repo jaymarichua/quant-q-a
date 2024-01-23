@@ -10,6 +10,8 @@ If there are $m$ ways to arrange something, and then $n$ ways to arrange somethi
 
 If there are $m$ ways to arrange something, and there are $n$ ways to arrange something else, and these arrangements cannot both happen, then the number of to arrange both of those things is $m×n$.
 
+<h6>Principle of Inclusion and Exclusion</h6>
+
 The utility of both rules are extended by other principles to solve harder problems, such as using subtraction in the case of double counting, which can be generalized with the principle of inclusion and exclusion. 
 
 <h6>Permutation</h6>
@@ -26,14 +28,16 @@ With regards to subsets, the number of permutations of $k$ objects from a set of
 
 <h6>Binomial Theorem</h6>
 
-Combinatorics is used to count expand polynomials.
+Combinatorics is involved with counting the coefficients expanded polynomial of a sum of two terms. The binomial theorem states that for any positive integer $n$, $$(x+y)^n=\binom{n}{0}x^n+\binom{n}{1}x^{n-1}y+...+\binom{n}{n-1}xy^{n-1}+\binom{n}{n}y^n=\sum_{k=0}^n\binom{n}{k}x^{n-k}y^k$$
 
-<h6>Principle of Inclusion and Exclusion</h6>
+Establishing a bijection between the products of a binomial rasied to $n$ and the combinations of $n$ objects, then each product which results in $a^{n-k}b^{k}$ corresponds to a combination of $k$ objects out of $n$ objects. Thus, each $a^{n-k}b^k$ term in the polynomial is derived from the sum of $\binom n k$ products.
 
 <h6>Commonly Appearing Combinatorics Word Problems</h6>
 
 Worth mentioning is that there are commonly appearing combinatorics word problems relating to other topics in mathematics, such as color parity, graph traversal, recursion, distribution of objects into bins, partition of an integer, pigeonhole principle, and grid walking.
 
-_Ref._ Combinatorics. Brilliant.org. Retrieved 17:22, January 23, 2024, from https://brilliant.org/wiki/combinatorics/
+<h5>References</h5>
 
-_Ref._ Principle of Inclusion and Exclusion (PIE). Brilliant.org. Retrieved 22:55, January 23, 2024, from https://brilliant.org/wiki/principle-of-inclusion-and-exclusion-pie/
+_Ref._ _Combinatorics. Brilliant.org. Retrieved 17:22, January 23, 2024, from https://brilliant.org/wiki/combinatorics/_
+
+_Ref._ _Principle of Inclusion and Exclusion (PIE). Brilliant.org. Retrieved 22:55, January 23, 2024, from https://brilliant.org/wiki/principle-of-inclusion-and-exclusion-pie/_
