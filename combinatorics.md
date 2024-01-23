@@ -8,7 +8,7 @@ If there are $m$ ways to arrange something, and then $n$ ways to arrange somethi
 
 <h6>Rule of Sum</h6>
 
-If there are $m$ ways to arrange somthing, and there are $n$ ways to arrange something else, and these arrangements cannot both happen, then the number of to arrange both of those things is $m×n$.
+If there are $m$ ways to arrange something, and there are $n$ ways to arrange something else, and these arrangements cannot both happen, then the number of to arrange both of those things is $m×n$.
 
 The utility of both rules are extended by other principles to solve harder problems, such as using subtraction in the case of double counting, which can be generalized with the principle of inclusion and exclusion. 
 
