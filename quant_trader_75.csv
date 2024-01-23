@@ -1,5 +1,5 @@
-category, name, difficulty, solved, date
-Combinatorics, Circular Charlie, Easy, Solved, 2024-01-24
-Combinatorics, Colorful Cube, Easy, Solved, 2024-01-24
-Combinatorics, Modified Deck Pair, Easy, Solved, 2024-01-24
-Combinatorics, Unfriendly, Easy, Solved, 2024-01-24
+category, name, difficulty, solved, date, notes
+Combinatorics, Circular Charlie, Easy, Solved, 2024-01-24, Probability is a ratio of x:y. This is an easy problem that can be solved by using combination to count x and count y. 
+Combinatorics, Colorful Cube, Easy, Solved, 2024-01-24, null
+Combinatorics, Modified Deck Pair, Easy, Solved, 2024-01-24, null
+Combinatorics, Unfriendly, Easy, Solved, 2024-01-24, null
