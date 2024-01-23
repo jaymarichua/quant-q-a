@@ -1,5 +1,5 @@
 <h5>Combinatorics</h5>
-The topic of combinatorics involves ways of counting large number of outcomes, i.e. possibilities in relating to probability and statistics. 
+The topic of combinatorics in word problems involves figuring ways of counting large number of outcomes, i.e. possibilities in relating to probability and statistics.
 
 <h6>Rule of Product</h6>
 
