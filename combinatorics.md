@@ -32,12 +32,22 @@ Combinatorics is involved with counting the coefficients expanded polynomial of 
 
 Establishing a bijection between the products of a binomial rasied to $n$ and the combinations of $n$ objects, then each product which results in $a^{n-k}b^{k}$ corresponds to a combination of $k$ objects out of $n$ objects. Thus, each $a^{n-k}b^k$ term in the polynomial is derived from the sum of $\binom n k$ products.
 
-<h6>Commonly Appearing Combinatorics Word Problems</h6>
+<h5>Commonly Appearing Combinatorics Word Problems</h5>
 
 Worth mentioning is that there are commonly appearing combinatorics word problems relating to other topics in mathematics, such as color parity, graph traversal, recursion, distribution of objects into bins, partition of an integer, pigeonhole principle, and grid walking.
+
+<h6>Number of ways to put objects into bins</h6>
+
+A combination can also be thought of as a selection of two sets of items: those that go into the chosen bin and those that go into the unchosen bin. This can be generalized to any number of bins with the constraint that every item must go to exactly one bin. The number of ways to put objects into bins is given by the multinomial coefficient.
+
+$$\binom{n}{k_1,k_2,...,k_m}=\frac{n!}{k_1!k2!...k_m!}$$
+
+`https://en.wikipedia.org/wiki/Combination`
 
 <h5>References</h5>
 
 _Ref._ _Combinatorics. Brilliant.org. Retrieved 17:22, January 23, 2024, from https://brilliant.org/wiki/combinatorics/_
 
 _Ref._ _Principle of Inclusion and Exclusion (PIE). Brilliant.org. Retrieved 22:55, January 23, 2024, from https://brilliant.org/wiki/principle-of-inclusion-and-exclusion-pie/_
+
+_Ref._ _Combination. Wikipedia. Retrieved 10:19, January 24, 2024, from https://en.wikipedia.org/wiki/Combination_
