@@ -24,6 +24,10 @@ Conditional Probability and Expected Utility Theory
 
 Many modern machine learning techniques rely on Bayes' theorem; a way to update beliefs upon discovery of new information.
 
+A memorable quote from last year on X, was a conditional "If you are true Bayesian,..."; which prompted revisiting my understanding of Bayes' theorem. I found an in-depth summary from Stanford: `https://plato.stanford.edu/entries/bayes-theorem/` and `https://plato.stanford.edu/entries/rationality-normative-utility/`.
+
+Level 1 understanding: Machine learning involves updating beliefs upon new information utilising on Bayes' theorem. For some reason, the legal page has a practical discussion `https://plato.stanford.edu/entries/legal-probabilism/#BayeNetwForLegaAppl` as to how Bayesian nets are used for induction and leads easily to the discussion topic of induction itself `https://plato.stanford.edu/entries/induction-problem/`.
+
 <h5>References</h5>
 
 _Ref._ _Conditional Probability. Brilliant.org. Retrieved 02:45, January 24, 2024, from https://brilliant.org/wiki/conditional-probability/_
