@@ -22,7 +22,7 @@ Conditional Probability and Expected Utility Theory
 
 <h6>Bayes' Theorem and Machine Learning</h6>
 
-Many modern machine learning techniques rely on Bayes' theorem, which is a way to update beliefs upon discovery of new information.
+Many modern machine learning techniques rely on Bayes' theorem; a way to update beliefs upon discovery of new information.
 
 <h5>References</h5>
 
