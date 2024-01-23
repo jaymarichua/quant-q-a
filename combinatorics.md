@@ -28,7 +28,7 @@ With regards to subsets, the number of permutations of $k$ objects from a set of
 
 <h6>Binomial Theorem</h6>
 
-Combinatorics is involved with counting the coefficients expanded polynomial of a sum of two terms. The binomial theorem states that for any positive integer $n$, $$(x+y)^n=\binom{n}{0}x^n+\binom{n}{1}x^{n-1}y+...+\binom{n}{n-1}xy^{n-1}+\binom{n}{n}y^n=\sum_{k=0}^n\binom{n}{k}x^{n-k}y^k$$
+Combinatorics is involved with counting the coefficients expanded polynomial of a sum of two terms. The binomial theorem states that for any positive integer $n$, $$(x+y)^n=\binom{n}{0}x^n+\binom{n}{1}x^{n-1}y+...+\binom{n}{n-1}xy^{n-1}+\binom{n}{n}y^n=\sum_{k=0}^n\binom{n}{k}x^{n-k}y^k$$.
 
 Establishing a bijection between the products of a binomial rasied to $n$ and the combinations of $n$ objects, then each product which results in $a^{n-k}b^{k}$ corresponds to a combination of $k$ objects out of $n$ objects. Thus, each $a^{n-k}b^k$ term in the polynomial is derived from the sum of $\binom n k$ products.
 
@@ -38,9 +38,7 @@ Worth mentioning is that there are commonly appearing combinatorics word problem
 
 <h6>Number of ways to put objects into bins</h6>
 
-Forming an intuition with combinatorics word problems comes with experience, but another way to approach the problems is by thinking of the combination as a selection of two sets of items as we are counting those that go into the chosen bin, $k$, and counting those that go into the unchosen bin, $n-k$. This can be generalized to any number of bins with the constraint that every item must go to exactly one bin. Note that the number of ways to put objects into bins is given by the multinomial coefficient. $$\binom{n}{k_1,k_2,...,k_m}=\frac{n!}{k_1!k2!...k_m!}$$, where $k_1!k_2!...k_m$ distinct numberings, and the number of equivalence classes is $\frac{n!}{k_1!k_2!...k_m!}$ 
-
-
+Forming an intuition with combinatorics word problems comes with experience, but another way to approach the problems is by thinking of the combination as a selection of two sets of items as we are counting those that go into the chosen bin, $k$, and counting those that go into the unchosen bin, $n-k$. This can be generalized to any number of bins with the constraint that every item must go to exactly one bin. Note that the number of ways to put objects into bins is given by the multinomial coefficient. $$\binom{n}{k_1,k_2,...,k_m}=\frac{n!}{k_1!k_2!...k_m!}$$, where every equivalence class consists of $k_1!k_2!...k_m$ distinct numberings, and the number of equivalence classes is $\frac{n!}{k_1!k_2!...k_m!}$.
 
 <h5>References</h5>
 
