@@ -2,13 +2,13 @@
 
 Quick mathematics questions in probability mainly involve Bayes' theorem and Expected Value (EV).
 
-Bayes' theorem (2nd form)
+<h6>Bayes' theorem (2nd form)</h6>
 
-$P_E(H) = P(H)P_H(E) / [P(H)P_H(E) + P(~H)P_{~H}(E)]$
+$$P_E(H) = P(H)P_H(E) / [P(H)P_H(E) + P(~H)P_{~H}(E)]$$
 
-Expected Utility
+<h6>Expected Utility</h6>
 
-EU(A)=∑o∈O PA(o)U(o)
+$$EU(A)=\sum_{o∈O} P_A(o)U(o)$$
 
 <h6>Stanford Encyclopedia of Philosophy</h6>
 
@@ -16,7 +16,7 @@ Bayes' Theorem
 
 `https://plato.stanford.edu/entries/bayes-theorem/`
 
-Expected Utility
+Conditional Probability and Expected Utility
 
 `https://plato.stanford.edu/entries/rationality-normative-utility/`
 
