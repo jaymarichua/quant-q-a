@@ -1,6 +1,26 @@
 <h5>Conditional Probability</h5>
 
-<h6>Bayes' Theorem</h6>
+Quick mathematics questions in probability mainly involve Bayes' theorem and Expected Value (EV).
+
+Bayes' theorem (2nd form)
+
+$P_E(H) = P(H)P_H(E) / [P(H)P_H(E) + P(~H)P_{~H}(E)]$
+
+Expected Utility
+
+EU(A)=∑o∈O PA(o)U(o)
+
+<h6>Stanford Encyclopedia of Philosophy</h6>
+
+Bayes' Theorem
+
+`https://plato.stanford.edu/entries/bayes-theorem/`
+
+Expected Utility
+
+`https://plato.stanford.edu/entries/rationality-normative-utility/`
+
+<h6>Bayes' Theorem and Machine Learning</h6>
 
 Many modern machine learning techniques rely on Bayes' theorem, which is a way to update beliefs upon discovery of new information.
 
