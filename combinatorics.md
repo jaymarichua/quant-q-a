@@ -28,7 +28,7 @@ With regards to subsets, the number of permutations of $k$ objects from a set of
 
 <h6>Binomial Theorem</h6>
 
-Combinatorics is involved with counting the coefficients expanded polynomial of a sum of two terms. The binomial theorem states that for any positive integer $n$, $$(x+y)^n=\binom{n}{0}x^n+\binom{n}{1}x^{n-1}y+...+\binom{n}{n-1}xy^{n-1}+\binom{n}{n}y^n=\sum_{k=0}^n\binom{n}{k}x^{n-k}y^k$$.
+Combinatorics is involved with counting the coefficients expanded polynomial of a sum of two terms. The binomial theorem states that for any positive integer $n$, $$(x+y)^n=\binom{n}{0}x^n+\binom{n}{1}x^{n-1}y+...+\binom{n}{n-1}xy^{n-1}+\binom{n}{n}y^n=\sum_{k=0}^n\binom{n}{k}x^{n-k}y^k$$
 
 Establishing a bijection between the products of a binomial rasied to $n$ and the combinations of $n$ objects, then each product which results in $a^{n-k}b^{k}$ corresponds to a combination of $k$ objects out of $n$ objects. Thus, each $a^{n-k}b^k$ term in the polynomial is derived from the sum of $\binom n k$ products.
 
