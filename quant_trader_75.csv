@@ -1,5 +1,5 @@
 category, name, difficulty, solved, date, notes
 Combinatorics, Circular Charlie, Easy, Solved, 2024-01-24, Probability is a ratio of x:y. This is a problem that can be solved by using combination to count x ({n-2}C10) and count y (distribute into bins 14C10).
-Combinatorics, Colorful Cube, Easy, Solved, 2024-01-24, The easiest way to compute this is to calculate the total number of ways to invite people (8C5) and then subtracting those that invite both (6C3).
+Combinatorics, Colorful Cube, Easy, Solved, 2024-01-24, There are 8 vertices on a cube and also a cube has 6 sides. The question prompts counting all the ways the sides can be fixed y=6! and x=(8 vertices)(3! ways to arrange fixed sides)(3! ways to arrange other remaining sides).
 Combinatorics, Modified Deck Pair, Easy, Solved, 2024-01-24, Count the ways you can get a pair (9 suites x 4C2 or picking the already matching suite +1) and divide that by drawing k cards from all the number of ways the remaining cards (38C2) can be arranged.
-Combinatorics, Unfriendly, Easy, Solved, 2024-01-24, null
+Combinatorics, Unfriendly, Easy, Solved, 2024-01-24, The easiest way to compute this is to calculate the total number of ways to invite people (8C5) and then subtracting those that invite both (6C3).
