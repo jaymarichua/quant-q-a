@@ -1,5 +1,5 @@
 category, name, difficulty, solved, date, notes
 Combinatorics, Circular Charlie, Easy, Solved, 2024-01-24, Probability is a ratio of x:y. This is an easy problem that can be solved by using combination to count x and count y. 
 Combinatorics, Colorful Cube, Easy, Solved, 2024-01-24, The easiest way to compute this is to calculate the total number of ways to invite people and then remove those that invite both.
-Combinatorics, Modified Deck Pair, Easy, Solved, 2024-01-24, Count the ways you can get a pair and divide that by all the number of ways the remaining cards can be arranged.
+Combinatorics, Modified Deck Pair, Easy, Solved, 2024-01-24, Count the ways you can get a pair (9 suites x 4C2 or picking the already matching suite, 1) and divide that by drawing k cards from all the number of ways the remaining cards (38C2) can be arranged.
 Combinatorics, Unfriendly, Easy, Solved, 2024-01-24, null
