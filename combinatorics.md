@@ -12,7 +12,7 @@ If there are $m$ ways to arrange something, and there are $n$ ways to arrange so
 
 <h6>Principle of Inclusion and Exclusion</h6>
 
-The utility of both rules are extended by other principles to solve harder problems, such as using subtraction in the case of double counting, which can be generalized with the principle of inclusion and exclusion. 
+The utility of both rules are extended by other principles to solve harder problems, such as using subtraction in the case of double counting, which can be generalized with the principle of inclusion and exclusion.To form an intuition for this principle, think of Venn diagrams where $P \cup S = P + S - P \cap S$. 
 
 <h6>Permutation</h6>
 
