@@ -7,3 +7,4 @@ Combinatorics, 2D Paths II, Medium, Solved, 2024-01-25, Gridwalk. Let P_1 and P_
 Combinatorics, 9 Sum II, Medium, Solved, 2024-01-26, A classic problem in probability. Represent the number in terms of its digits: x_1 x_2 x_3 ... x_n. Since x_1 cannot be zero then represent with x'_1 + ... x_n = 9-1 where the solution becomes (9+ndigits-1)C(ndigits-1).
 Conditional Probability, Baby Boy, Easy, Solved, 2024-01-27, Conditional probability introduces conditional EV. Simple application of Bayes' theorem and noticing the unkown term cancels out after writing down the equation.
 Conditional Probability, Conditional Double Heads, Easy, Solved, 2024-01-27, Bayes' theorem application and setting-up the equation as p_n > 19/20 and p_n = (1/20)/(1/20 + 19/(20*2^n)).
+Conditional Probability, Matching Die Pair, Easy, Solved, 2024-01-27, There are two cases to consider. When the dice values are the same 1/36 x 1/6 and (+) are different 1/18 x 5/6. 
