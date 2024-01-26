@@ -35,3 +35,5 @@ _Ref._ _Conditional Probability. Brilliant.org. Retrieved 02:45, January 24, 202
 _Ref._ _Bayes' Theorem and Conditional Probability. Brilliant.org. Retrieved 02:48, January 24, 2024, from https://brilliant.org/wiki/bayes-theorem/_
 
 _Ref._ _Bayes' theorem, the geometry of changing beliefs. 3Blue1Brown. Retrieved 02:53, January 24, 2024, from https://www.youtube.com/watch?v=HZGCoVF3YvM_
+
+_Ref._ _Conditional Probability. Yale. Retrieved 05:36, January 27, 2024, from http://www.stat.yale.edu/Courses/1997-98/101/condprob.htm_
