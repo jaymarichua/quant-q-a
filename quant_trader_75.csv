@@ -5,4 +5,4 @@ Combinatorics, Modified Deck Pair, Easy, Solved, 2024-01-24, Count the ways you 
 Combinatorics, Unfriendly, Easy, Solved, 2024-01-24, The easiest way to compute this is to calculate the total number of ways to invite people (8C5) and then subtracting those that invite both (6C3).
 Combinatorics, 2D Paths II, Medium, Solved, 2024-01-25, Gridwalk. Let P_1 and P_2 be the events that your character through (2.3) and (4.6) and then use inclusion-exclusion for double counting.
 Combinatorics, 9 Sum II, Medium, Solved, 2024-01-26, A classic problem in probability. Represent the number in terms of its digits: x_1 x_2 x_3 ... x_n. Since x_1 cannot be zero then represent with x'_1 + ... x_n = 9-1 where the solution becomes (9+ndigits-1)C(ndigits-1).
-Conditional Probability, Baby Boy, Easy, Solved, 2024-01-27, Conditional probability introduces conditional EV. 
+Conditional Probability, Baby Boy, Easy, Solved, 2024-01-27, Conditional probability introduces conditional EV. Simple application of Bayes' theorem and noticing the unkown term cancels out after writing down the equation.
