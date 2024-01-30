@@ -2,6 +2,8 @@
 
 $$\sum_{k=0}^{\infty} a r^k$$
 
+The above equation is the a generator form of the geometric series, and a closed form of the geometric series can be written as $\frac{a}{1-r}$ for |r|<1$
+
 The geometric series is often used in word problems relating to probability.
 
 <h6>Infinite Series</h6>
