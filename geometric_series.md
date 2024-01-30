@@ -33,7 +33,7 @@ Abby can win in multiple ways:
 
 Since Abby and Ben flip their coins alternatively, starting with Abby, Abby's potential winning flips are the 1st, 3rd, 5th, etc. The probability of Abby winning on her $k$-th turn, where $k$ is odd, is $p x ((1-p) x 0.5)^{(k-1)/2}$. This expression considers that both have been flipping tails until Abby's $k$-th turn.
 
-The total probability $P[A]$ of ABby winning is the sum of her winning probabilities on the 1st, 3rd, 5th, and so on, turns. This forms an infinite geometric series:
+The total probability $P[A]$ of Abby winning is the sum of her winning probabilities on the 1st, 3rd, 5th, and so on, turns. This forms an infinite geometric series:
 
 $$P[A] = \sum_{k=1,3,5,...}^{\infty} p x \frac{1-p}{2}^{(k-1)/2}$$
 
