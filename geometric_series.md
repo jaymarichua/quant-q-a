@@ -12,13 +12,11 @@ $$\sum_{k=0}^{\infty} a r^{2k} = \frac{a}{1-r^2}$$
 
 and for odd powers only,
 
-$$\sum_{k=0}^{\infty} a r^{k} = \frac{ar}{1-r^2}$$
+$$\sum_{k=0}^{\infty} a r^{2k+1} = \frac{ar}{1-r^2}$$
 
 In cases where the sum does not start at $k=0$,
 
 $$\sum_{k=m}^{\infty} a r^k = \frac{ar^m}{1-r}$$
-
-$$\infty$$
 
 <h6>Problem example: Coin Flipping</h6>
 
@@ -39,9 +37,19 @@ The total probability $P[A]$ of ABby winning is the sum of her winning probabili
 
 $$P[A] = \sum_{k=1,3,5,...}^{\infty} p x \frac{1-p}{2}^{(k-1)/2}$$
 
+The sum of this odd infinite geometric series is $\frac{p}{1-\frac{1-p}{2}}$ which simplifies to:
 
+$$P[A] = \frac{2p}{1+p}$$
 
-The sum of this 
+Given that Abby and Ben have equal chances of winning (i.e., $P[A] = \frac{1}{2}$), we set up the equation:
+
+$$\frac{2p}{1+p} = \frac{1}{2}$$
+
+Solving this equation for $p$, we find:
+
+$$p = \frac{1}{3}$$
+
+Therefore, the probability of Abby's coin showing heads is $\frac{1}{3}$ to ensure that both players have an equal chance of winning the game.
 
 <h6>References</h6>
 
