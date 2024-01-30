@@ -35,9 +35,9 @@ Since Abby and Ben flip their coins alternatively, starting with Abby, Abby's po
 
 The total probability $P[A]$ of Abby winning is the sum of her winning probabilities on the 1st, 3rd, 5th, and so on, turns. This forms an infinite geometric series:
 
-$$P[A] = \sum_{k=1,3,5,...}^{\infty} p x \frac{1-p}{2}^{(k-1)/2}$$
+$$P[A] = \sum_{k=1,3,5,...}^{\infty} p \times \frac{1-p}{2}^{(k-1)/2}$$
 
-The sum of this odd infinite geometric series is $\frac{p}{1-\frac{1-p}{2}}$ which simplifies to:
+The sum of this odd, $k$ starts at 1 (i.e., $k$=1,3,5,...), infinite geometric series is $\frac{p}{1-\frac{1-p}{2}}$ which simplifies to:
 
 $$P[A] = \frac{2p}{1+p}$$
 
