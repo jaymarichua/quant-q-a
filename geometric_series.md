@@ -39,7 +39,7 @@ The total probability $P[A]$ of Abby winning is the sum of her winning probabili
 
 $$P[A] = \sum_{k=1,3,5,...}^{\infty} p \times \frac{1-p}{2}^{(k-1)/2}$$
 
-The sum of this odd, $k$ starts at 1 (i.e., $k$=1,3,5,...), geometric series is $\frac{p}{1-\frac{1-p}{2}}$ which simplifies to:
+The sum of this odd, $k$ starts at 1 (i.e., $k$=1,3,5,...), infinite geometric series is $\frac{p}{1-\frac{1-p}{2}}$ which simplifies to:
 
 $$P[A] = \frac{2p}{1+p}$$
 
