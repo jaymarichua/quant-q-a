@@ -4,7 +4,23 @@ $$\sum_{k=0}^{\infty} a r^k$$
 
 The geometric series is often used in word problems relating to probability.
 
-Example:
+<h6>Infinite Series</h6>
+
+For a series containing only even powers of $r$ assuming $|r|<1$,
+
+$$\sum_{k=0}^{\infty} a r^{2k} = \frac{a}{1-r^2}$$
+
+and for odd powers only,
+
+$$\sum_{k=0}^{\infty} a r^{k} = \frac{ar}{1-r^2}$$
+
+In cases where the sum does not start at $k=0$,
+
+$$\sum_{k=m}^{\infty} a r^k = \frac{ar^m}{1-r}$$
+
+$$\infty$$
+
+<h6>Problem example: Coin Flipping</h6>
 
 Abby and Ben are engrossed in a coin flipping game. Abby's coin isn't like most coins. It shows heads with a probability $p$ on every flip. Ben, on the other hand, possesses a regular coin that's fair. The game goes like this: Abby flips her coin first, followed by Ben, and they take turns in this manner. The game ends when one of them flips a heads. The first one to achieve this feat is declared the winner.
 
@@ -21,7 +37,11 @@ Since Abby and Ben flip their coins alternatively, starting with Abby, Abby's po
 
 The total probability $P[A]$ of ABby winning is the sum of her winning probabilities on the 1st, 3rd, 5th, and so on, turns. This forms an infinite geometric series:
 
-$$P[A] = \sum_{k=1,2,5,...}^{\infty} p x \frac{1-p}{2}^{(k-1)/2}$$
+$$P[A] = \sum_{k=1,3,5,...}^{\infty} p x \frac{1-p}{2}^{(k-1)/2}$$
+
+
+
+The sum of this 
 
 <h6>References</h6>
 
