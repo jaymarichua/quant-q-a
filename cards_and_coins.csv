@@ -1,5 +1,6 @@
 category, name, difficulty, solved, date, notes
 Reasoning, Decoding the Cards, Easy, Solved, 2024-01-31, Determine the suit using the pigeonhole principle and determine the denomination by using an encoding-decoding system through adding value of given card mod 13.
+Reasooning, Weighing Coins III, Easy, Solved, 2024-01-31, Divide the 8 coins into three groups: two groups with 3 coins each and one group with 2 coins. Then divide and conquer, either compare the 2 coins on the balance scale if balanced or take 2 coins from the heavier side and compare on the balance scale.
 Probability, Two Cards from Deck, Easy, Solved, 2024-01-31, Calculate the probability of drawing an ace on the first draw i.e. P(Ace on 1st draw) = Number of aces/Deck multiplied by the probability of drawing another ace P(Ace on 2nd draw) = Number of remaining aces/Remaining cards in deck.
 Probability, Drawing a Pair, Easy, Solved, 2024-01-31, Draing any of the first card from a standard deck multiplied by drawing remaining three other cards with the same rank in the deck.
 Probability, Coin Flipping Game, Easy, Solved, 2024-01-31, Geometric series. P[A] = sum_{k=1 3 5}^inf p x frac{1-p}{2}^{(k-1)/2}.
