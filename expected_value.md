@@ -1,3 +1,9 @@
+<h4> Expected Value </h4>
+
+$$E[X] = \sum_{i=1}^{\infty} x_i p_i$$
+
+The expected value of a random variable $X$ is often denoted by $E(X), E[X], or EX$, with a stylized $E$.
+
 <h5>Infinite expected values</h5>
 
 <h5>St. Petersburg paradox</h5>
@@ -31,3 +37,5 @@ $$E(X) = \sum_{n=1}^{40} \frac{1}{2^n} \cdot 2^n + \sum_{n=41}^{\infty} \frac{1}
 ... The $\infty$ in the St. Petersburg paradox is driven by an infinite "tail" of exteremely rare events where you get extremely large payoffs. Cutting off this tail at some point, which makes sense in the real world, dramatically reduces teh expected value of the game.
 
 _Ref._ _Expected Value. Wikipedia. Retrieved 19:18, January 31, 2024 from https://en.wikipedia.org/wiki/Expected_value_
+
+Blitzstein, J., & Hwang, J. (2009). Introduction to Probability. Harvard University and Stanford University.
