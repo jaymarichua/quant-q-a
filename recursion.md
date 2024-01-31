@@ -8,7 +8,7 @@ In linear recurrences, the $n$th term is equated to a linear function of the $k$
 
 $$F_n = F_{n-1} + F_{n-2}$$
 
-where the order $k$ is two and the linear function merely adds the two previous terms. The example is a linear recurrence with constant coefficients
+where the order $k$ is two and the linear function merely adds the two previous terms. The example is a linear recurrence with constant coefficients.
 
 <h6>See: A.4 Difference equations of Blitzstein Hwang Probability</h6>
 
