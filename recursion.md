@@ -18,6 +18,8 @@ $$p_i = p \cdot p_{i+1} + q \cdot p_{i-1}$$
 
 where p != 0 and q = 1-p. (This equation comes up in the gambler's ruin problem.) 
 
+<h6>References</h6>
+
 _Ref._ _Recurrence relation. Wikipedia. Retrieved 17:48, January 31, 2024, from https://en.wikipedia.org/wiki/Recurrence_relation_
 
 Blitzstein, J., & Hwang, J. (2009). _Introduction to Probability_. Harvard University and Stanford University.
