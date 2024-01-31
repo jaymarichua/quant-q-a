@@ -6,4 +6,4 @@ Probability, Double Headed Coin, Easy, Solved, 2024-01-31, Law of total probabil
 Probability, Exactly One Head, Easy, Solved, 2024-01-31, Exclude the outcome where all three are tails (TTT).
 Probability, Tossing Ten, Medium, Solved, 2024-01-31, Fibonacci pattern where Fn = F_(n-1) + F_(n-2) as coin problems lend itself easily to the Fibonacci pattern.
 Reasoning, Decoding the Cards, Easy, Solved, 2024-01-31, Determine the suit using the pigeonhole principle and determine the denomination by using an encoding-decoding system through adding value of given card mod 13.
-Reasoning, Weighing Coins III, Easy, Solved, 2024-01-31, Trick question where the scale can result to being balanced. Divide eight coins into 3-3-2 and weigh 3-3 and deduce where the heavier coin can be. 
+Reasoning, Weighing Coins III, Easy, Solved, 2024-01-31, Trick q as 2^3=8 whereas a scale can balance. Divide eight coins into 3-3-2. Balanced: re-weigh 2-coin group. Unbalanced: Divide heavier 3-coin group into 2-1 and re-weigh.
