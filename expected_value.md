@@ -36,6 +36,12 @@ $$E(X) = \sum_{n=1}^{40} \frac{1}{2^n} \cdot 2^n + \sum_{n=41}^{\infty} \frac{1}
 
 ... The $\infty$ in the St. Petersburg paradox is driven by an infinite "tail" of exteremely rare events where you get extremely large payoffs. Cutting off this tail at some point, which makes sense in the real world, dramatically reduces teh expected value of the game.
 
+<h5>Martingale</h5>
+
+Martingale is an instantiation of the St. Petersburg paradox.
+
 _Ref._ _Expected Value. Wikipedia. Retrieved 19:18, January 31, 2024 from https://en.wikipedia.org/wiki/Expected_value_
+
+_Ref._ _Martingale. Wikipedia. Retrieved 20:46, January 31, 2024 from https://en.wikipedia.org/wiki/Martingale_(betting_system)_
 
 Blitzstein, J., & Hwang, J. (2009). Introduction to Probability. Harvard University and Stanford University.
