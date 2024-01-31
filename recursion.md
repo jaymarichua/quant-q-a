@@ -1,4 +1,4 @@
-<h6>Recurrence relation</h6>
+<h5>Recurrence relation</h5>
 
 In mathematics, a recurrence relation is an equation according to which the $n$th term of a sequence of numbers is equal to some combination of the previous terms. 
 
