@@ -1,2 +1,2 @@
 category, name, difficulty, solved, date, notes
-Reasoning, Squares of a Chessboard, Solved, 2024-02-01, Count squares with brute force and combine totals for 1x1 squares = 8 x 8 then add 2x2 squares = 7 x 7 squares up until 8x8 squares = 1 x 1. Count rectangles with vertical 9C2 multiplied by horizontal 9C2.  
+Reasoning, Squares of a Chessboard, Hard, Solved, 2024-02-01, Count squares with brute force and combine totals for 1x1 squares = 8 x 8 then add 2x2 squares = 7 x 7 squares up until 8x8 squares = 1 x 1. Count rectangles with vertical 9C2 multiplied by horizontal 9C2.  
