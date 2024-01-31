@@ -4,6 +4,7 @@ Probability, Drawing a Pair, Easy, Solved, 2024-01-31, Draing any of the first c
 Probability, Coin Flipping Game, Easy, Solved, 2024-01-31, Geometric series. P[A] = sum_{k=1 3 5}^inf p x frac{1-p}{2}^{(k-1)/2}.
 Probability, Double Headed Coin, Easy, Solved, 2024-01-31, Law of total probability.
 Probability, Exactly One Head, Easy, Solved, 2024-01-31, Exclude the outcome where all three are tails (TTT).
+Probability, St. Petersburg Paradox, Easy, Solved, 2024-01-31, E[2^N] = sum_{n=1}^{\infty} 2^n \cdot P[N=n] = \sum_{n=1}^{\infty} 2^n \cdot \frac{1}{2^n} = \sum_{n=1}^{\infty} 1 = \infty
 Probability, Tossing Ten, Medium, Solved, 2024-01-31, Fibonacci pattern where Fn = F_(n-1) + F_(n-2) as coin problems lend itself easily to the Fibonacci pattern.
 Reasoning, Decoding the Cards, Easy, Solved, 2024-01-31, Determine the suit using the pigeonhole principle and determine the denomination by using an encoding-decoding system through adding value of given card mod 13.
 Reasoning, Weighing Coins III, Easy, Solved, 2024-01-31, Trick q as 2^3=8 whereas a scale can balance. Divide eight coins into 3-3-2. Balanced: re-weigh 2-coin group. Unbalanced: Divide heavier 3-coin group into 2-1 and re-weigh.
