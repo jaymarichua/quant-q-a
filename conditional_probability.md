@@ -28,6 +28,13 @@ A memorable quote from last year on X, was a conditional "If you are true Bayesi
 
 Level 1 understanding: Machine learning involves updating beliefs upon new information utilising on Bayes' theorem. For some reason, the legal page has a practical discussion `https://plato.stanford.edu/entries/legal-probabilism/#BayeNetwForLegaAppl` as to how Bayesian nets are used for induction and leads easily to the discussion topic of induction itself `https://plato.stanford.edu/entries/induction-problem/`.
 
+<h6>Law of total probability</h6>
+In word problems, the application of Bayes' rule also involves the law of total probability which is usually applied as follows:
+
+$$P(D|T) = \frac{P(T|D)P(D)}{P(T)}$$
+
+$$P(D|T) = \frac{P(T|D)P(D)}{P(T|D)P(D) + P(T|D^c)P(D^c)}$$
+
 <h5>References</h5>
 
 _Ref._ _Conditional Probability. Brilliant.org. Retrieved 02:45, January 24, 2024, from https://brilliant.org/wiki/conditional-probability/_
