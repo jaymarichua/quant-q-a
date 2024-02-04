@@ -1,0 +1,9 @@
+category, name, difficulty, solved, date, notes
+Probability, Boys and Girls in a Row, Easy, Solved, 2024-02-03, 3! x 3! x 2 as there are 3 positions and 3 positions for girls but the order can start with boys or with girls.
+Probability, Double Headed Coin, Easy, Solved, 2024-02-03
+Probability, Flashlight, Medium, Solved, 2024-02-03
+Probability, Hourglasses, Easy, Solved, 2024-02-03
+Probability, Ice cream and Students, Easy, Solved, 2024-02-03
+Probability, Just Normal, Easy, Solved, 2024-02-03
+Probability, St. Petersburg Pradox, Easy, Solved, 2024-02-03
+Probability, Video Game Company, Easy, Solved, 2024-02-03
