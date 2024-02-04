@@ -1,9 +1,9 @@
 category, name, difficulty, solved, date, notes
-Math, Trailing Zeros, Medium, Solved, 2024-02-03, Trailing zeros can be counted by counting the factors of 5. 1000 mod 5 + 1000 mod 25 ... + 1000 mod 625 
-Reasoning, Squares of a Chessboard, Hard, Solved, 2024-02-01, Count squares with brute force and combine totals for 1x1 squares = 8 x 8 then add 2x2 squares = 7 x 7 squares up until 8x8 squares = 1 x 1. Count rectangles with vertical 9C2 multiplied  ore 500-22 will stay
+Math, Trailing Zeros, Medium, Solved, 2024-02-03, Trailing zeros can be counted by counting the factors of 5. 1000 mod 5 + 1000 mod 25 ... + 1000 mod 625.
+Reasoning, Squares of a Chessboard, Hard, Solved, 2024-02-01, Count squares with brute force and combine totals for 1x1 squares = 8 x 8 then add 2x2 squares = 7 x 7 squares up until 8x8 squares = 1 x 1. Count rectangles with vertical 9C2 multiplied  ore 500-22 will stay.
 Reasoning, Crafty Cubes, Medium, Solved, 2024-02-03, Consider the center-most cube which have six sides that would need to be exposed.
 Reasoning, Lightbulbs, Medium, Solved, 2024-02-03, Consider whether the number of factors is odd or even and recalling that squares have an odd number of factors. Hence 500-22^2 (highest perfect square) is the number of bulbs turned on.
 Probability, Birthday Paradox, Hard, Solved, 2024-02-03, It is simpler to determine the probability that two people share a birthday and so forth. First calculate the number of ways 23 students can have unique birthdays. Next divide that by the total number of possibilities which is 365^2.
-Probability, Dicey Dilemma, Easy, Solved, 2024-02-03, Expected Value
-Probability, Hourglasses, Easy, Solved, 2024-02-03, Take the time difference between the hour glasses
-Probability, Socks, Easy, Solved, 2024-02-03, Pigeonhole N+1
+Probability, Dicey Dilemma, Easy, Solved, 2024-02-03, Expected Value.
+Probability, Hourglasses, Easy, Solved, 2024-02-03, Take the time difference between the hour glasses.
+Probability, Socks, Easy, Solved, 2024-02-03, Pigeonhole N+1.
