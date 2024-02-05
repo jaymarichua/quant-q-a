@@ -1,6 +1,6 @@
 <h5>Recurrence relation</h5>
 
-In mathematics, a recurrence relation is an equation according to which the $n$ th term of a sequence of numbers is equal to some combination of the previous terms. 
+In mathematics, a recurrence relation is an equation according to which the nth term of a sequence of numbers is equal to some combination of the previous terms. 
 
 <h6>Fibonacci</h6>
 
@@ -10,7 +10,7 @@ $$F_n = F_{n-1} + F_{n-2}$$
 
 where the order $k$ is two and the linear function merely adds the two previous terms. The example is a linear recurrence with constant coefficients.
 
-<h6>See: A.4 Difference equations of Blitzstein Hwang Probability</h6>
+<h6>See: A.4 Difference equations, from _Blitzstein Hwang Probability_</h6>
 
 Difference equations often arise in probability, especially when applying the law of total probability. In this section, we will show how to solve difference equations of the form
 
