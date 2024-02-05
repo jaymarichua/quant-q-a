@@ -10,7 +10,7 @@ $$F_n = F_{n-1} + F_{n-2}$$
 
 where the order $k$ is two and the linear function merely adds the two previous terms. The example is a linear recurrence with constant coefficients.
 
-<h6>See: A.4 Difference equations, from _Blitzstein Hwang Probability_</h6>
+<h6>See: A.4 Difference equations, from Blitzstein, J., & Hwang, J. (2009). Introduction to Probability.</h6>
 
 Difference equations often arise in probability, especially when applying the law of total probability. In this section, we will show how to solve difference equations of the form
 
