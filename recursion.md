@@ -4,7 +4,7 @@ In mathematics, a recurrence relation is an equation according to which the nth 
 
 <h6>Fibonacci</h6>
 
-In linear recurrences, the $n$th term is equated to a linear function of the $k$ previous terms. A famous example is the recurrence for Fibonacci numbers,
+In linear recurrences, the nth term is equated to a linear function of the $k$ previous terms. A famous example is the recurrence for Fibonacci numbers,
 
 $$F_n = F_{n-1} + F_{n-2}$$
 
