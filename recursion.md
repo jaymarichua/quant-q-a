@@ -16,7 +16,7 @@ Difference equations often arise in probability, especially when applying the la
 
 $$p_i = p \cdot p_{i+1} + q \cdot p_{i-1}$$
 
-where p != 0 and q = 1-p. (This equation comes up in the gambler's ruin problem.) 
+where $p!=0$ and $q=1-p$. (This equation comes up in the gambler's ruin problem.) 
 
 <h6>References</h6>
 
