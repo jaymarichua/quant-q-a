@@ -1,4 +1,4 @@
-stat110
+[stat110](https://projects.iq.harvard.edu/stat110/strategic-practice-problems)
 
 _Additional Resources_
 1. Introduction to Probability, Second Edition. https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/edit
