@@ -1,6 +1,3 @@
-<h6>Addition</h6>
-Left-to-Right
-Complement
-<h6>Subtraction</h6>
-<h6>Multiplication</h6>
-<h6>Division</h6>
+<h6>arithmetic.zetamac.com</h6>
+1. Read and evaluate the arithmetic question from left to right.
+2. Use complements.
