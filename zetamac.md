@@ -21,3 +21,20 @@ addition, record: 21 in 120s
 | 8 | 8 | 16 | x2 |
 | 8 | 9 | 17 | 8-1+carry |
 | 9 | 9 | 18 | x2 |
+
+subtraction, record:
+
+| x | y | diff | quick math |
+|:---:|:---:|:---:|:---|
+| 9 | 9 | 0 | zero |
+| `8 | 9 | 9 | gap 1, then 9 |
+| `7 | 8 | 9 | gap 1, then 9 |
+| `6 | 7 | 9 | gap 1, then 9 |
+| `5 | 6 | 9 | gap 1, then 9 |
+| `4 | 5 | 9 | gap 1, then 9 |
+| `3 | 4 | 9 | gap 1, then 9 |
+| `2 | 3 | 9 | gap 1, then 9 |
+| `1 | 2 | 9 | gap 1, then 9 |
+| `7 | 9 | 8 | gap 2, then 8 |
+| `6 | 8 | 8 | gap 2, then 8 |
+| ... | ... | ... | ... |
