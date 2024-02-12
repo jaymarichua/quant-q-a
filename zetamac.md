@@ -39,10 +39,9 @@ subtraction, record: 21 in 120s
 | `6 | 8 | 8 | gap 2, then 8 |
 | ... | ... | ... | ... |
 
-multiplication, record:
+multiplication, record: 10 in 120
 
 | x | y | prod | quick math |
 |:---:|:---:|:---:|:---|
-| 9 | 9 | 0 | zero |
-
+| 0 | 0 | 0 | zero |
 
