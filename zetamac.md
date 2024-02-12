@@ -43,5 +43,11 @@ multiplication, record: 10 in 120
 
 | x | y | prod | quick math |
 |:---:|:---:|:---:|:---|
-| 0 | 0 | 0 | zero |
+| ... | ... | ... | ... |
+
+division, record: 14 in 120
+
+| x | y | prod | quick math |
+|:---:|:---:|:---:|:---|
+| ... | ... | ... | ... |
 
