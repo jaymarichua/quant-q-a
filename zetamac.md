@@ -42,6 +42,7 @@ subtraction, record: 21 in 120s
 multiplication, record:
 
 | x | y | prod | quick math |
+|:---:|:---:|:---:|:---|
 | 9 | 9 | 0 | zero |
 
 
