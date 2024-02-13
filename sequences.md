@@ -12,9 +12,6 @@ For beginners in sequence solving, the first step is understanding the basic typ
 
 During practice, you'll learn that the Optiver Sequence Test presents these types in various complex combinations, creating more challenging problems. Engaging in consistent practice with different types of sequences is the key to effective preparation.
 
-_From:_ https://www.tradermath.org/knowledge-base/the-ultimate-guide-to-the-optiver-interview
-
-
 <h6>Sequences</h6>
 
 1. Take the difference between each next number in the sequence. 
@@ -29,3 +26,5 @@ The sequence starts with the number 6 and continues by adding consecutive prime 
 $$10, 29, 54, 85, 122, 165, ...$$
 
 This sequence starts with the number 10. It then increases by an amount that itself increases by a constant value each step. The initial change is 19 and it increases by 6 each time. The correct answer is the next value in the sequence which is 214.
+
+_Source:_ https://www.tradermath.org/knowledge-base/the-ultimate-guide-to-the-optiver-interview
