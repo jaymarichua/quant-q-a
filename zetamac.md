@@ -45,6 +45,11 @@ multiplication, record: 13 in 120
 |:---:|:---:|:---:|:---|
 | ... | ... | ... | ... |
 
+```
+Case: xy * xy
+x^2 append y^2 + x*y*2*10
+```
+
 division, record: 14 in 120
 
 | x | y | prod | quick math |
