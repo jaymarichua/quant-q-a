@@ -62,10 +62,10 @@ division, record: 14 in 120
 <h6>Targeted Practice Mode</h6>
 
 Integer Questions: 17 in 2 minutes.
-Total attempts: 15
+Total attempts: 16
 
-Decimal Questions: 7 in 2 minutes.
-Total attempts: 4
+Decimal Questions: 9 in 2 minutes.
+Total attempts: 51
 
 ```
 Case: x_1.x_2 / y_1.y_2 = x_1 x_2 / y_1 y_2
@@ -75,8 +75,8 @@ Case: x * 0.0y = x * y / 100
 Case: x / 0.0y = x * 100 / y
 ```
 
-Fraction Questions: 5 in 2 minutes.
-Total attempts: 3
+Fraction Questions: 9 in 2 minutes.
+Total attempts: 36
 
 ```
 Case: Integer - Improper fraction = Integer - Mixed fraction = Mixed fraction
