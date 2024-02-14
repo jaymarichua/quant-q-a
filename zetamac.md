@@ -67,6 +67,8 @@ Total attempts: 4
 ```
 Case: x_1.x_2 / y_1.y_2 = x_1 x_2 / y_1 y_2
 
+Case: x * 0.0y = x * y / 100
+
 Case: x% of y = y% of x
 ```
 
