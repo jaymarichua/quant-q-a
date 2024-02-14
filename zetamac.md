@@ -61,3 +61,11 @@ Total attempts: 4
 
 Fraction Questions: 5 in 2 minutes.
 Total attempts: 3
+
+```
+Case: Integer - Improper fraction = Integer - Mixed fraction = Mixed fraction
+Integer - (mixed_whole_number) - 1, then append complement of mixed fraction
+
+Case: x/y /? = z
+zy/x 
+```
