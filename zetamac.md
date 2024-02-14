@@ -69,7 +69,7 @@ Case: x_1.x_2 / y_1.y_2 = x_1 x_2 / y_1 y_2
 
 Case: x * 0.0y = x * y / 100
 
-Case: x% of y = y% of x
+Case: x / 0.0y = x * 100 / y
 ```
 
 Fraction Questions: 5 in 2 minutes.
