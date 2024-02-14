@@ -51,3 +51,13 @@ division, record: 14 in 120
 |:---:|:---:|:---:|:---|
 | ... | ... | ... | ... |
 
+<h6>Targeted Practice Mode</h6>
+
+Integer Questions: 17 in 2 minutes.
+Total attempts: 15
+
+Decimal Questions: ???
+Total attempts: ???
+
+Fraction Questions: ???
+Total attempts: ???
