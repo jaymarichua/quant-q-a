@@ -59,6 +59,10 @@ Total attempts: 15
 Decimal Questions: 7 in 2 minutes.
 Total attempts: 4
 
+```
+Case: x_1.x_2 / y_1.y_2 = x_1 x_2 / y_1 y_2 
+```
+
 Fraction Questions: 5 in 2 minutes.
 Total attempts: 3
 
