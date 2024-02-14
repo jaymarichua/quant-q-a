@@ -56,8 +56,8 @@ division, record: 14 in 120
 Integer Questions: 17 in 2 minutes.
 Total attempts: 15
 
-Decimal Questions: 3 in 2 minutes.
-Total attempts: 2
+Decimal Questions: 7 in 2 minutes.
+Total attempts: 4
 
 Fraction Questions: 5 in 2 minutes.
 Total attempts: 3
