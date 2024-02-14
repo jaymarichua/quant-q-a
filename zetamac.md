@@ -48,6 +48,9 @@ multiplication, record: 13 in 120
 ```
 Case: xy * xy
 x^2 append y^2 + x*y*2*10
+
+Case: x5 * x5
+x*(x+1) append 25
 ```
 
 division, record: 14 in 120
