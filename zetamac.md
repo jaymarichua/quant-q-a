@@ -88,13 +88,13 @@ Fraction Questions: 9 in 2 minutes.
 Total attempts: 51
 
 ```
-Case: Unsimplified fractions specific to the multiple choice question format
+Case (Question format): Unsimplified fractions specific to the multiple choice question format
 Scan the choices to accomodate unsimplified fractions in the question format
+
+Case (Question format): x/y /? = i/j
+? = (x/i) / (y/j)
 
 Case: Integer - Improper fraction = x - y/z
 Usually, convert y/z to a mixed fraction by finding the largest multiple of z that is still smaller than y, and then perform the subtraction
 A quicker way is to find the smallest multiple of z that is still larger than y, which is easier to subtract from the integer and then the subtraction
-
-Case: x/y /? = z
-zy/x
 ```
