@@ -74,7 +74,7 @@ Case: x * 0.0y = x * y / 100
 
 Case: x / 0.0y = x * 100 / y
 
-Case: x5 * x5
+Case: x.5 * x.5
 x*(x+1) append 25 / 100
 ```
 
