@@ -101,6 +101,7 @@ A quicker way is to find the smallest multiple of z that is still larger than y,
 
 Times Table
 
-| ? | 19 | ?? | ?? |
+| ? | 17 | 19 | ?? |
 |:---:|:---:|:---:|:---|
-| 6 | 114 | ?? | ?? |
+| 4 | 56 | ?? |
+| 6 | ?? | 114 | ?? |
