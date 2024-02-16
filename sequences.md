@@ -17,6 +17,9 @@ During practice, you'll learn that the Optiver Sequence Test presents these type
 1. Take the difference between each next number in the sequence. 
 2. Notice a pattern for an arithmetic operation in the difference sequence which could be a constant factor, exponentiation, primes, fibonacci sequence, factorials, or mod.
 
+Fraction Sequence: notice the numerator and denominator
+Pairs, Alternating, Fibonacci seed, etc. 
+
 <h6>Examples</h6>
 
 $$6, 8, 11, 16, 23, 34, 47, ...$$
