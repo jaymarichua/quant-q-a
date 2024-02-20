@@ -99,7 +99,7 @@ Usually, convert y/z to a mixed fraction by finding the largest multiple of z th
 A quicker way is to find the smallest multiple of z that is still larger than y, which is easier to subtract from the integer and then the subtraction
 
 Case: small Fraction - ? = small Fraction
-Cross-multipy
+Since the numbers are small, looking for the LCD is still faster than cross-multiplication
 ```
 
 Times Table
