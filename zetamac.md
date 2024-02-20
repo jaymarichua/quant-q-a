@@ -97,6 +97,9 @@ Case (Question format): x/y /? = i/j
 Case: Integer - Improper fraction = x - y/z
 Usually, convert y/z to a mixed fraction by finding the largest multiple of z that is still smaller than y, and then perform the subtraction
 A quicker way is to find the smallest multiple of z that is still larger than y, which is easier to subtract from the integer and then the subtraction
+
+Case: small Fraction - ? = small Fraction
+Cross-multipy
 ```
 
 Times Table
