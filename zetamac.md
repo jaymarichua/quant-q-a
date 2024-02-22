@@ -64,14 +64,14 @@ division, record: 14 in 120
 
 <h6>Targeted Practice Mode</h6>
 
-80 in 8: 36 in 8 minutes.
-Total attempts: 16
+80 in 8: 51 in 8 minutes.
+Total attempts: 23
 
 Integer Questions: 18 in 2 minutes.
-Total attempts: 22
+Total attempts: 36
 
-Decimal Questions: 9 in 2 minutes.
-Total attempts: 64
+Decimal Questions: 18 in 2 minutes.
+Total attempts: 200
 
 ```
 Case: x_1.x_2 / y_1.y_2 = x_1 x_2 / y_1 y_2
@@ -84,8 +84,8 @@ Case: x.5 * x.5
 x*(x+1) append 25 / 100
 ```
 
-Fraction Questions: 9 in 2 minutes.
-Total attempts: 51
+Fraction Questions: 16 in 2 minutes.
+Total attempts: 210
 
 ```
 Case (Question format): Unsimplified fractions specific to the multiple choice question format
