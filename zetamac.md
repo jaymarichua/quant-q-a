@@ -24,6 +24,10 @@ addition, record: 21 in 120s
 
 subtraction, record: 21 in 120s
 
+```
+1. Subtraction can be simplified through rounding-up and adding what was taken using complements.
+```
+
 | x | y | diff | quick math |
 |:---:|:---:|:---:|:---|
 | 9 | 9 | 0 | zero |
