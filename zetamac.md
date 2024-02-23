@@ -52,7 +52,7 @@ x^2 append y^2 + x*y*2*10
 Case: x5 * x5
 x*(x+1) append 25
 
-Case: xy * xz, where x + z = 10
+Case: xy * xz, where y + z = 10
 x*(x+1) append y*z
 ```
 
