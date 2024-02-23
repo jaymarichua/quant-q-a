@@ -101,10 +101,3 @@ A quicker way is to find the smallest multiple of z that is still larger than y,
 Case: small Fraction - ? = small Fraction
 Since the numbers are small, looking for the LCD is still faster than cross-multiplication
 ```
-
-Times Table
-
-| ? | 17 | 19 | ?? |
-|:---:|:---:|:---:|:---|
-| 4 | 56 | ?? |
-| 6 | ?? | 114 | ?? |
