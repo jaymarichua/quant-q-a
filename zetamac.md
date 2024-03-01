@@ -44,16 +44,31 @@ Borrowing subtraction table.
 | `7 | 9 | 9 | gap 2, then 8 |
 | `6 | 8 | 9 | gap 2, then 8 |
 | `5 | 7 | 9 | gap 2, then 8 |
-| `4 | 6 | 9 | gap 2, then 8 |
-| `3 | 5 | 9 | gap 2, then 8 |
-| `2 | 4 | 9 | gap 2, then 8 |
-| `1 | 3 | 9 | gap 2, then 8 |
-| `6 | 9 | 9 | gap 3, then 7 |
-| `5 | 8 | 9 | gap 3, then 7 |
-| `4 | 7 | 9 | gap 3, then 7 |
-| `3 | 6 | 9 | gap 3, then 7 |
-| `2 | 5 | 9 | gap 3, then 7 |
-| `1 | 4 | 9 | gap 3, then 7 |
+| `4 | 6 | 8 | gap 2, then 8 |
+| `3 | 5 | 8 | gap 2, then 8 |
+| `2 | 4 | 8 | gap 2, then 8 |
+| `1 | 3 | 8 | gap 2, then 8 |
+| `6 | 9 | 7 | gap 3, then 7 |
+| `5 | 8 | 7 | gap 3, then 7 |
+| `4 | 7 | 7 | gap 3, then 7 |
+| `3 | 6 | 7 | gap 3, then 7 |
+| `2 | 5 | 7 | gap 3, then 7 |
+| `1 | 4 | 7 | gap 3, then 7 |
+| `5 | 9 | 6 | gap 4, then 6 |
+| `4 | 8 | 6 | gap 4, then 6 |
+| `3 | 7 | 6 | gap 4, then 6 |
+| `2 | 6 | 6 | gap 4, then 6 |
+| `1 | 5 | 6 | gap 4, then 6 |
+| `4 | 9 | 5 | gap 5, then 5 |
+| `3 | 8 | 5 | gap 5, then 5 |
+| `2 | 7 | 5 | gap 5, then 5 |
+| `1 | 6 | 5 | gap 5, then 5 |
+| `3 | 9 | 4 | gap 6, then 4 |
+| `2 | 8 | 4 | gap 6, then 4 |
+| `1 | 7 | 4 | gap 6, then 4 |
+| `2 | 9 | 3 | gap 7, then 3 |
+| `1 | 8 | 3 | gap 7, then 3 |
+| `1 | 9 | 2 | gap 8, then 2 |
 
 multiplication, record: 13 in 120
 
