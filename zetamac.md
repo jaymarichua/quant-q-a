@@ -98,8 +98,12 @@ division, record: 14 in 120
 80 in 8: 51 in 8 minutes.
 Total attempts: 23
 
-Integer Questions: 18 in 2 minutes.
+Integer Questions: 20 in 2 minutes.
 Total attempts: 36
+```
+Case: Three-digit subtraction
+Read the arithmetic question in its entirety to predict whether borrowing will be involved. 
+```
 
 Decimal Questions: 18 in 2 minutes.
 Total attempts: 200
