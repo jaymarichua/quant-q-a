@@ -102,7 +102,7 @@ Integer Questions: 20 in 2 minutes.
 Total attempts: 36
 ```
 Case: Three-digit subtraction
-Read the arithmetic question in its entirety to predict whether borrowing will be involved. 
+Read the arithmetic question in its entirety to predict whether borrowing will be involved. Also, there are only three cases for borrowing to happen in: tens, ones, or both.
 ```
 
 Decimal Questions: 18 in 2 minutes.
