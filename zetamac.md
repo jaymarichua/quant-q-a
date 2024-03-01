@@ -3,7 +3,9 @@
 1. Read and evaluate the arithmetic question from left to right.
 
 addition, record: 21 in 120s
-
+```
+Carry-over addition table.
+```
 | x | y | sum | quick math |
 |:---:|:---:|:---:|:---|
 | 5 | 5 | 10 | x2 |
@@ -23,11 +25,12 @@ addition, record: 21 in 120s
 | 9 | 9 | 18 | x2 |
 
 subtraction, record: 21 in 120s
-
 ```
 1. Subtraction can be simplified through rounding-up and adding what was taken using complements.
 ```
-
+```
+Borrowing subtraction table.
+```
 | x | y | diff | quick math |
 |:---:|:---:|:---:|:---|
 | 9 | 9 | 0 | zero |
@@ -39,9 +42,24 @@ subtraction, record: 21 in 120s
 | `3 | 4 | 9 | gap 1, then 9 |
 | `2 | 3 | 9 | gap 1, then 9 |
 | `1 | 2 | 9 | gap 1, then 9 |
-| `7 | 9 | 8 | gap 2, then 8 |
-| `6 | 8 | 8 | gap 2, then 8 |
-| ... | ... | ... | ... |
+| 8 | 8 | 0 | zero |
+| `7 | 9 | 9 | gap 2, then 8 |
+| `6 | 8 | 9 | gap 2, then 8 |
+| `5 | 7 | 9 | gap 2, then 8 |
+| `4 | 6 | 9 | gap 2, then 8 |
+| `3 | 5 | 9 | gap 2, then 8 |
+| `2 | 4 | 9 | gap 2, then 8 |
+| `1 | 3 | 9 | gap 2, then 8 |
+
+
+| ` | 9 | 9 | gap 1, then 9 |
+| `7 | 9 | 9 | gap 2, then 8 |
+| `6 | 9 | 9 | gap 3, then 7 |
+| `5 | 9 | 9 | gap 4, then 6 |
+| `4 | 9 | 9 | gap 5, then 5 |
+| `3 | 9 | 9 | gap 6, then 3 |
+| `2 | 9 | 9 | gap 7, then 2 |
+| `1 | 9 | 9 | gap 8, then 1 |
 
 multiplication, record: 13 in 120
 
