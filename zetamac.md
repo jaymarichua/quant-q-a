@@ -41,9 +41,9 @@ Borrowing subtraction table.
 | `3 | 4 | 9 | gap 1, then 9 |
 | `2 | 3 | 9 | gap 1, then 9 |
 | `1 | 2 | 9 | gap 1, then 9 |
-| `7 | 9 | 9 | gap 2, then 8 |
-| `6 | 8 | 9 | gap 2, then 8 |
-| `5 | 7 | 9 | gap 2, then 8 |
+| `7 | 9 | 8 | gap 2, then 8 |
+| `6 | 8 | 8 | gap 2, then 8 |
+| `5 | 7 | 8 | gap 2, then 8 |
 | `4 | 6 | 8 | gap 2, then 8 |
 | `3 | 5 | 8 | gap 2, then 8 |
 | `2 | 4 | 8 | gap 2, then 8 |
