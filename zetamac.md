@@ -41,7 +41,6 @@ Borrowing subtraction table.
 | `3 | 4 | 9 | gap 1, then 9 |
 | `2 | 3 | 9 | gap 1, then 9 |
 | `1 | 2 | 9 | gap 1, then 9 |
-| 8 | 8 | 0 | zero |
 | `7 | 9 | 9 | gap 2, then 8 |
 | `6 | 8 | 9 | gap 2, then 8 |
 | `5 | 7 | 9 | gap 2, then 8 |
@@ -49,16 +48,12 @@ Borrowing subtraction table.
 | `3 | 5 | 9 | gap 2, then 8 |
 | `2 | 4 | 9 | gap 2, then 8 |
 | `1 | 3 | 9 | gap 2, then 8 |
-
-
-| ` | 9 | 9 | gap 1, then 9 |
-| `7 | 9 | 9 | gap 2, then 8 |
 | `6 | 9 | 9 | gap 3, then 7 |
-| `5 | 9 | 9 | gap 4, then 6 |
-| `4 | 9 | 9 | gap 5, then 5 |
-| `3 | 9 | 9 | gap 6, then 3 |
-| `2 | 9 | 9 | gap 7, then 2 |
-| `1 | 9 | 9 | gap 8, then 1 |
+| `5 | 8 | 9 | gap 3, then 7 |
+| `4 | 7 | 9 | gap 3, then 7 |
+| `3 | 6 | 9 | gap 3, then 7 |
+| `2 | 5 | 9 | gap 3, then 7 |
+| `1 | 4 | 9 | gap 3, then 7 |
 
 multiplication, record: 13 in 120
 
