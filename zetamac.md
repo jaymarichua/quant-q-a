@@ -24,10 +24,9 @@ Carry-over addition table.
 | 8 | 9 | 17 | 8-1+carry |
 | 9 | 9 | 18 | x2 |
 
-subtraction, record: 21 in 120s
-```
 1. Subtraction can be simplified through rounding-up and adding what was taken using complements.
-```
+
+subtraction, record: 21 in 120s
 ```
 Borrowing subtraction table.
 ```
