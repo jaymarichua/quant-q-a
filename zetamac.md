@@ -10,12 +10,12 @@ Carry-over addition table.
 |:---:|:---:|:---:|:---|
 | 1 | 9 | 10 | complements |
 | 2 | 8 | 10 | complements |
-| 3 | 7 | 10 | complements |
-| 4 | 6 | 10 | complements |
 | 2 | 9 | 11 | 2-1+carry |
+| 3 | 7 | 10 | complements |
 | 3 | 8 | 11 | (3+7)+1 |
-| 4 | 7 | 11 | (4+6)+1 |
 | 3 | 9 | 12 | 3-1+carry |
+| 4 | 6 | 10 | complements |
+| 4 | 7 | 11 | (4+6)+1 |
 | 4 | 8 | 12 | (4+6)+2 |
 | 4 | 9 | 13 | 4-1+carry |
 | 5 | 5 | 10 | x2 |
