@@ -9,20 +9,15 @@ Carry-over addition table.
 | x | y | sum | quick math |
 |:---:|:---:|:---:|:---|
 | 1 | 9 | 10 | complements |
-| 2 | 9 | 11 | |
 | 2 | 8 | 10 | complements |
-| 3 | 9 | 12 | |
+| 2 | 9 | 11 | |
+| 3 | 7 | 10 | complements |
 | 3 | 8 | 11 | |
-| 3 | 7 | 10 | |
-| 4 | 9 | 13 | |
-| 4 | 8 | 12 | |
-| 4 | 7 | 11 | |
+| 3 | 9 | 12 | |
 | 4 | 6 | 10 | complements |
-| 5 | 5 | 10 | complements |
-| 6 | 4 | 10 | complements |
-| 7 | 3 | 10 | complements |
-| 8 | 2 | 10 | complements |
-| 9 | 1 | 10 | complements |
+| 4 | 7 | 11 | |
+| 4 | 8 | 12 | |
+| 4 | 9 | 13 | |
 | 5 | 5 | 10 | x2 |
 | 5 | 6 | 11 | x2+1 |
 | 5 | 7 | 12 | x2+2 |
