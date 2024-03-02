@@ -113,6 +113,8 @@ Total attempts: 36
 ```
 Case: Three-digit subtraction
 Read the arithmetic question in its entirety to predict whether borrowing will be involved. Also, there are only three cases for borrowing to happen in: tens, ones, or both.
+
+Case: Two-digit multiplication with x ending in 8 or 9 by multiplying by 10x and subtracting 2x or x. 
 ```
 
 Decimal Questions: 18 in 2 minutes.
