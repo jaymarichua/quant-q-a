@@ -82,7 +82,7 @@ Borrowing subtraction table.
 
 multiplication, record: 13 in 120
 
-| | 1 | 2 | 3 | 4 | 5 |
+| X | 1 | 2 | 3 | 4 | 5 |
 |:---:|:---:|:---:|:---:|:---:|
 | 1 | 1 | 2 | 3 | 4 | 5 |
 | 2 | 2 | 4 | 6 | 8 | 10 |
