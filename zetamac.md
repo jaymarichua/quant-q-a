@@ -145,6 +145,9 @@ Decimal Questions: 18 in 2 minutes.
 Total attempts: 200
 
 ```
+Case: a x 0.0000b
+Implement the multiplication in the decimal point and nevermind thinking to the thousandths place.
+
 Case: 0.xy-0.ab
 Usually, the question asks for a difference of 0.1z and sometimes it will be easier to add the gap between b and 10 to y.
 
