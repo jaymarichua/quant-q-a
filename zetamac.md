@@ -145,6 +145,9 @@ Decimal Questions: 18 in 2 minutes.
 Total attempts: 200
 
 ```
+Case: 0.xy-0.ab
+Usually, the question asks for a difference of 0.1z and sometimes it will be easier to add the gap between b and 10 to y.
+
 Case: x_1.x_2 / y_1.y_2 = x_1 x_2 / y_1 y_2
 
 Case: x * 0.0y = x * y / 100
