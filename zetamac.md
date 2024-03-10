@@ -114,18 +114,14 @@ multiplication, record: 13 in 120
 Case: xy * xy
 x^2 append y^2 + x*y*2*10
 
-Case: x5 * x5
-x*(x+1) append 25
-
 Case: xy * xz, where y + z = 10
 x*(x+1) append y*z
+
+Case: x5 * x5
+x*(x+1) append 25
 ```
 
 division, record: 14 in 120
-
-| x | y | prod | quick math |
-|:---:|:---:|:---:|:---|
-| ... | ... | ... | ... |
 
 <h6>Targeted Practice Mode</h6>
 
