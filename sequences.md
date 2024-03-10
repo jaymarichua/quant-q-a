@@ -31,3 +31,11 @@ $$10, 29, 54, 85, 122, 165, ...$$
 This sequence starts with the number 10. It then increases by an amount that itself increases by a constant value each step. The initial change is 19 and it increases by 6 each time. The correct answer is the next value in the sequence which is 214.
 
 _Source:_ https://www.tradermath.org/knowledge-base/the-ultimate-guide-to-the-optiver-interview
+
+Particularly Common Cases:
+```
+Alternating pattern mentioned above as double sequences
+Fibonacci pattern masked in an alternating pattern mentioned above as double sequences
++1, +2, +1, +2, +1, ...
+x5, x4, x3, x2, x1, ... 
+```
