@@ -32,10 +32,19 @@ This sequence starts with the number 10. It then increases by an amount that its
 
 _Source:_ https://www.tradermath.org/knowledge-base/the-ultimate-guide-to-the-optiver-interview
 
-Particularly Common Cases:
+<h6>Particularly Commonly Occuring Cases</h6>
 ```
 Alternating pattern mentioned above as double sequences
 Fibonacci pattern masked in an alternating pattern mentioned above as double sequences
 +1, +2, +1, +2, +1, ...
 x5, x4, x3, x2, x1, ... 
+```
+
+<h6>Generalized Approach</h6>
+```
+Arithmetic: The sequence lends itself to a solution through a linearly increasing trend 
+Geometric: The sequence lends itself to a solution through a scaling trend
+Prime Numbers: The sequence lends itself to a solution through noticing that the numbers are odd and memorizing the prime number sequence
+Fibonacci: Remember that in a Fibonacci sequence, the first two digits are only seed
+Mixed-up Fibonacci: The last resort for the quiz master to create confusing sequences as the other ones can easily be deciphered
 ```
