@@ -141,20 +141,29 @@ Decimal Questions: 18 in 2 minutes.
 Total attempts: 200
 
 ```
-Case: a x 0.0000b
-Implement the multiplication in the decimal point and nevermind thinking to the thousandths place.
-
 Case: 0.xy-0.ab
 Usually, the question asks for a difference of 0.1z and sometimes it will be easier to add the gap between b and 10 to y.
 
-Case: x_1.x_2 / y_1.y_2 = x_1 x_2 / y_1 y_2
+Case: a x 0.0000b
+Implement the multiplication in the decimal point and nevermind thinking to the thousandths place.
+
+Case: x000 x ? = z0
+Assume a thousandths multiplier, .00y and re-adjust based on the answer z0.
 
 Case: x * 0.0y = x * y / 100
+Reading decimals into over hundredths may help with accuracy.
 
 Case: x / 0.0y = x * 100 / y
+Likewise, dividing with a decimal can be read as multiplying by a multiple of 10. 
 
 Case: x.5 * x.5
 x*(x+1) append 25 / 100
+
+Case: x.y / ? = 0.z
+Disregard the decimal place that cancels out
+
+Case: Simple Integer A / ? = Simple Integer B, 0.75, 0.8, 1.2, 1.25
+Figure A/B with 0.75 is 3/4, 0.8 is 8/10 or 2/5, 1.2 is 1 1/5, 1.25 is 1 1/4 
 ```
 
 Fraction Questions: 16 in 2 minutes.
