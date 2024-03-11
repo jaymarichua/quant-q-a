@@ -8,3 +8,6 @@ Tracking the queue and remembering that the tasks will be needing attention at a
 
 Understanding the importance of price discovery as risks can only be managed through decisions that are informed by this initial price discovery strategy. In theory, the first few balloons can be popped for price averaging, but in practice, taking profits early also creates a position for future risk taking. Similar psychometric tests are available from quant sites such as OpenQuant. 20 minutes.
 
+<h6>Tower of Hanoi</h6>
+
+Tower of Hanoi often comes up in brainteaser games and is solved by recursion and parity. 5 minutes.
