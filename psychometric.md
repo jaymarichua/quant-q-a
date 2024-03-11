@@ -6,5 +6,5 @@ Tracking the queue and remembering that the tasks will be needing attention at a
 
 <h6>Risk management and Price discovery</h6>
 
-Understanding the importance of price discovery as risks can only be managed through decisions that are informed by this initial price discovery strategy. 20 minutes.
+Understanding the importance of price discovery as risks can only be managed through decisions that are informed by this initial price discovery strategy. In theory, the first few balloons can be popped for price averaging, but in practice, taking profits early also creates a position for future risk taking. 20 minutes.
 
