@@ -44,6 +44,8 @@ Forming an intuition with combinatorics word problems comes with experience, but
 
 _Ref._ _Combinatorics. Brilliant.org. Retrieved 17:22, January 23, 2024, from https://brilliant.org/wiki/combinatorics/_
 
+_Ref._ _Advanced Examples, Combinations. Brilliant.org. Retrieved 04:01, January 24, 2024, from https://brilliant.org/wiki/combinations/_
+
 _Ref._ _Principle of Inclusion and Exclusion (PIE). Brilliant.org. Retrieved 22:55, January 23, 2024, from https://brilliant.org/wiki/principle-of-inclusion-and-exclusion-pie/_
 
 _Ref._ _Combination. Wikipedia. Retrieved 10:19, January 24, 2024, from https://en.wikipedia.org/wiki/Combination_
