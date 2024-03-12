@@ -5,7 +5,7 @@ Psychometric tests can be practiced for; here is a few pieces of information on 
 Tracking the queue and remembering that the tasks will be needing attention at a certain time in the future; similar to the games Overcooked and Diner Dash. 5 minutes.
 
 ```
-Overcooked 2 story mode.
+Overcooked 2, story mode.
 ```
 
 <h6>Risk management and Price discovery</h6>
@@ -13,7 +13,7 @@ Overcooked 2 story mode.
 Understanding the importance of price discovery as risks can only be managed through decisions that are informed by this initial price discovery strategy. In theory, the first few balloons can be popped for price averaging, but in practice, taking profits early also creates a position for future risk taking. An advantage can be gained by having a more efficient method about the price discovery, by making assumptions with the range of the values that a search algorithm can be used. Similar psychometric tests are available from quant sites such as OpenQuant. 20 minutes.
 
 ```
-Risk game 159 pts. 
+Risk game, 159 pts. 
 ```
 
 <h6>Tower of Hanoi</h6>
@@ -21,8 +21,7 @@ Risk game 159 pts.
 Tower of Hanoi often comes up in brainteaser games and is solved by recursion and parity. 5 minutes.
 
 ```
-Tower of Hanoi 5
-Nuts and bolts sort Level 30.
+Tower of Hanoi, 5 slots. Nuts and Bolts Sort, 30 levels.
 ```
 
 <h6>Shape Location Stroop Test</h6>
@@ -30,7 +29,7 @@ Nuts and bolts sort Level 30.
 Stroop tests are common brain teasers available widely on the Internet. Holding onto the pattern is good, but being considerate of the time also allows for a higher score. Since this test is the shortest in time, racking up points early and focusing on execution is also a good approach. 2.5 minutes.
 
 ```
-Flexibility 31 pts
+Flexibility 31 pts.
 ```
 
 <h6>Memory</h6>
