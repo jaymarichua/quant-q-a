@@ -13,7 +13,7 @@ Overcooked 2, story mode.
 Understanding the importance of price discovery as risks can only be managed through decisions that are informed by this initial price discovery strategy. In theory, the first few balloons can be popped for price averaging, but in practice, taking profits early also creates a position for future risk taking. An advantage can be gained by having a more efficient method about the price discovery, by making assumptions with the range of the values that a search algorithm can be used. Similar psychometric tests are available from quant sites such as OpenQuant. 20 minutes.
 
 ```
-Risk game, 159 pts. 
+Risk game, 159 pts (top 10: 161 pts). 
 ```
 
 <h6>Tower of Hanoi</h6>
