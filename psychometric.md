@@ -13,7 +13,7 @@ Overcooked 2, story mode.
 Understanding the importance of price discovery as risks can only be managed through decisions that are informed by this initial price discovery strategy. In theory, the first few balloons can be popped for price averaging, but in practice, taking profits early also creates a position for future risk taking. An advantage can be gained by having a more efficient method about the price discovery, by making assumptions with the range of the values that a search algorithm can be used. Similar psychometric tests are available from quant sites such as OpenQuant. 20 minutes.
 
 ```
-Risk game, 159 pts (top 10: 161 pts). 
+Risk game, 159 pts (Leaderboard's top 10: 161 pts). 
 ```
 
 <h6>Tower of Hanoi</h6>
@@ -29,7 +29,7 @@ Tower of Hanoi, 5 slots. Nuts and Bolts Sort, 30 levels.
 Stroop tests are common brain teasers available widely on the Internet. Holding onto the pattern is good, but being considerate of the time also allows for a higher score. Since this test is the shortest in time, racking up points early and focusing on execution is also a good approach. 2.5 minutes.
 
 ```
-Flexibility 31 pts.
+Flexibility 31 pts (Leaderboard's top 10: 95).
 ```
 
 <h6>Memory</h6>
