@@ -1,4 +1,4 @@
-Psychometric tests can be practiced for; here is a few pieces of information on these types of tests that may be encountered in a quant interview.
+Psychometric tests can be practiced for; here are a few pieces of information on these types of tests that may be encountered in a quant interview.
 
 <h6>Time management and Multi-tasking</h6>
 
