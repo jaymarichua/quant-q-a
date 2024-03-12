@@ -21,7 +21,7 @@ Risk game, 159 pts (Leaderboard's top 10: 161 pts).
 Tower of Hanoi often comes up in brainteaser games and is solved by recursion and parity. 5 minutes.
 
 ```
-Tower of Hanoi, 5 slots. Nuts and Bolts Sort, 30 levels.
+Tower of Hanoi, 6 disks minimum solution. Nuts and Bolts Sort, 30 levels.
 ```
 
 <h6>Shape Location Stroop Test</h6>
