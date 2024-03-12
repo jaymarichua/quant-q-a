@@ -11,3 +11,7 @@ Understanding the importance of price discovery as risks can only be managed thr
 <h6>Tower of Hanoi</h6>
 
 Tower of Hanoi often comes up in brainteaser games and is solved by recursion and parity. 5 minutes.
+
+<h6>Shape Location Stroop Test</h6>
+
+Stroop tests are common brain teasers available widely on the Internet. Holding onto the pattern is good, but being considerate of the time also allows for a higher score. Since this test is the shortest in time, racking up points early and focusing on execution is also a good approach. 2.5 minutes.
