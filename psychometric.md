@@ -2,10 +2,10 @@ Psychometric tests can be practiced for; here are a few pieces of information on
 
 <h6>Time management and Multi-tasking</h6>
 
-Tracking the queue and remembering that the tasks will be needing attention at a certain time in the future helps; similar to the games Overcooked and Diner Dash. 5 minutes.
+Tracking the queue and remembering that the tasks will be needing attention at a certain time in the future helps; similar to the games Overcooked! and Diner Dash. 5 minutes.
 
 ```
-Overcooked 2, story mode.
+Overcooked! 2, story mode.
 ```
 
 <h6>Risk management and Price discovery</h6>
