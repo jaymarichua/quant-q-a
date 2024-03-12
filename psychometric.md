@@ -32,7 +32,7 @@ Stroop tests are common brain teasers available widely on the Internet. Holding 
 Flexibility 31 pts (Leaderboard's top 10: 95 pts).
 ```
 
-<h6>Memory</h6>
+<h6>Number Memory</h6>
 
 Memory games are widely popular in intelligence tests.
 
