@@ -50,7 +50,7 @@ Dr Kawashima's Brain Training
 
 <h6>Target Number</h6>
 
-Target number is a specific game that can be practiced for. 3 minutes.
+Target number is a specific game that can be familiarized with after playing a few times. 3 minutes.
 
 ```
 URL: https://www.dcode.fr/mathador-solver
