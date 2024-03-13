@@ -66,8 +66,9 @@ Videogames/Reaction-Time
 
 <h6>Deductive Reasoning</h6>
 
-20 minutes.
+The game Mastermind is a logic game that involved deduction, meanwhile, the game Set allows players to familiarize with working out the different features from a variety of colored shapes. 20 minutes.
 
 ```
 Mastermind: https://webgamesonline.com/mastermind/
+Set: https://www.setgame.com/set/puzzle
 ```
