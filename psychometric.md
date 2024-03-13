@@ -67,5 +67,5 @@ Videogames
 <h6>Logical Deduction</h6>
 
 ```
-Mastermind
+Mastermind: https://webgamesonline.com/mastermind/
 ```
