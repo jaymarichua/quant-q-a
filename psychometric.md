@@ -34,7 +34,7 @@ Flexibility, 39 pts (Leaderboard's top 10: 95 pts).
 
 <h6>Number Memory</h6>
 
-Memory tests are widely popular in intelligence tests.
+Memory tests are widely popular in intelligence tests. 15 minutes.
 
 ```
 Memory Game, 11 pts (Leaderboard's top 10: 31 pts).
@@ -46,4 +46,26 @@ Task Switching is another cognitive flexibility test for which seem to be improv
 
 ```
 Dr Kawashima's Brain Training
+```
+
+<h6>Target Number</h6>
+
+Target number is a specific game that can be practiced for. 3 minutes.
+
+```
+URL: https://www.dcode.fr/mathador-solver
+```
+
+<h6>Matching</h6>
+
+Matching. 1.5 minutes.
+
+```
+Videogames
+```
+
+<h6>Logical Deduction</h6>
+
+```
+Mastermind
 ```
