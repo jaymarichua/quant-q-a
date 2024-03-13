@@ -37,7 +37,7 @@ Flexibility, 39 pts (Leaderboard's top 10: 95 pts).
 Memory tests are widely popular in intelligence tests. 15 minutes.
 
 ```
-Memory Game, 11 pts (Leaderboard's top 10: 31 pts).
+Memory Game, 15 pts (Leaderboard's top 10: 31 pts).
 ```
 
 <h6>Task Switching</h6>
