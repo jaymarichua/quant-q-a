@@ -29,7 +29,7 @@ Tower of Hanoi, 6 disks minimum solution. Nuts and Bolts Sort, 30 levels.
 Stroop tests are common brain teasers available widely on the Internet. Holding onto the pattern is good, but being considerate of the time also allows for a higher score. Since this test is the shortest in time, racking up points early and focusing on execution is also a good approach. 2.5 minutes.
 
 ```
-Flexibility 39 pts (Leaderboard's top 10: 95 pts).
+Flexibility, 39 pts (Leaderboard's top 10: 95 pts).
 ```
 
 <h6>Number Memory</h6>
@@ -37,5 +37,13 @@ Flexibility 39 pts (Leaderboard's top 10: 95 pts).
 Memory tests are widely popular in intelligence tests.
 
 ```
-Memory Game 11 pts (Leaderboard's top 10: 31 pts).
+Memory Game, 11 pts (Leaderboard's top 10: 31 pts).
+```
+
+<h6>Task Switching</h6>
+
+Task Switching is another cognitive flexibility test for which seem to be improved by playing video games. 1.5 minutes.
+
+```
+Dr Kawashima's Brain Training
 ```
