@@ -56,9 +56,9 @@ Target number is a specific game that can be practiced for. 3 minutes.
 URL: https://www.dcode.fr/mathador-solver
 ```
 
-<h6>Matching</h6>
+<h6>Number String Matching</h6>
 
-1.5 minutes.
+Since this test is relatively short, being prepared to execute on the task before starting can help improve the score. Practicing the memory game can also help with this task. 1.5 minutes.
 
 ```
 Videogames
