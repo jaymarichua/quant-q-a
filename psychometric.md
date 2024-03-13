@@ -58,13 +58,15 @@ URL: https://www.dcode.fr/mathador-solver
 
 <h6>Matching</h6>
 
-Matching. 1.5 minutes.
+1.5 minutes.
 
 ```
 Videogames
 ```
 
 <h6>Logical Deduction</h6>
+
+20 minutes.
 
 ```
 Mastermind: https://webgamesonline.com/mastermind/
