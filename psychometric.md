@@ -71,4 +71,5 @@ The game Mastermind is a logic game that involves deduction, meanwhile, the game
 ```
 Mastermind: https://webgamesonline.com/mastermind/
 Set: https://www.setgame.com/set/puzzle
+Set, instructions: https://www.setgame.com/sites/default/files/instructions/SET%20INSTRUCTIONS%20-%20ENGLISH.pdf
 ```
