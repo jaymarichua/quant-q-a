@@ -64,7 +64,7 @@ Since this test is relatively short, being prepared to execute on the task befor
 Videogames/Reaction-Time
 ```
 
-<h6>Logical Deduction</h6>
+<h6>Deductive Reasoning</h6>
 
 20 minutes.
 
