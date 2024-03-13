@@ -61,7 +61,7 @@ URL: https://www.dcode.fr/mathador-solver
 Since this test is relatively short, being prepared to execute on the task before starting can help improve the score. Practicing the memory game can also help with this task. 1.5 minutes.
 
 ```
-Videogames
+Videogames/Reaction-Time
 ```
 
 <h6>Logical Deduction</h6>
