@@ -34,7 +34,7 @@ Flexibility, 39 pts (Leaderboard's top 10: 95 pts).
 
 <h6>Number Memory</h6>
 
-Memory tests are widely popular in intelligence tests. 15 minutes.
+Memory tests are widely popular in intelligence tests. Since the numbers are revealed one digit at a time, repeating the sequence mentally can improve short-term recall. 15 minutes.
 
 ```
 Memory Game, 15 pts (Leaderboard's top 10: 31 pts).
@@ -42,7 +42,7 @@ Memory Game, 15 pts (Leaderboard's top 10: 31 pts).
 
 <h6>Task Switching</h6>
 
-Task Switching is another cognitive flexibility test for which seem to be improved by playing video games. 1.5 minutes.
+Task Switching is another cognitive flexibility test for which seem to be improved by playing certain video games. 1.5 minutes.
 
 ```
 Dr Kawashima's Brain Training
