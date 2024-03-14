@@ -49,6 +49,7 @@ x5, x4, x3, x2, x1, ...
 Arithmetic: The sequence lends itself to a solution through a linearly increasing trend 
 Geometric: The sequence lends itself to a solution through a scaling trend
 Prime Numbers: The sequence lends itself to a solution through noticing that the numbers are odd and memorizing the prime number sequence
+Increasing Subtractor: An effective way to mask arithmetic, geometric, and prime sequences and mish mash them together
 Fibonacci: Remember that in a Fibonacci sequence, the first two digits are only seed
 Mixed-up Fibonacci: The last resort for the quiz master to create confusing sequences as the other ones can easily be deciphered
 Divisibility Rules: Divisibility rules can also lend to the answer among the multiple choice options
