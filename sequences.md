@@ -35,7 +35,7 @@ _Source:_ https://www.tradermath.org/knowledge-base/the-ultimate-guide-to-the-op
 <h6>Particularly Commonly Occuring Cases</h6>
 
 ```
-Alternating pattern mentioned above as double sequences
+Alternating pattern mentioned above as double sequences 2/2/2 or 3/3
 Fibonacci pattern masked in an alternating pattern mentioned above as double sequences
 +1, +2, +1, +2, +1, ...
 x5, x4, x3, x2, x1, ...
