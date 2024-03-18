@@ -10,4 +10,4 @@ Probability, Tossing Ten, Medium, Solved, 2024-01-31, Fibonacci pattern where Fn
 Reasoning, Decoding the Cards, Easy, Solved, 2024-01-31, Determine the suit using the pigeonhole principle and determine the denomination by using an encoding-decoding system through adding value of given card mod 13.
 Reasoning, Weighing Coins III, Easy, Solved, 2024-01-31, Trick q as 2^3=8 whereas a scale can balance. Divide eight coins into 3-3-2. Balanced: re-weigh 2-coin group. Unbalanced: Divide heavier 3-coin group into 2-1 and re-weigh.
 Reasoning, Guess the Trade, Easy, Solved, 2024-01-31, Gathering hidden information from use of language and deduction by logic.
-Reasoning, Opening Evelopes, Easy, Solved, 202-01-31, Understand when to apply Monty Hall or instead use a simple case of Bayes' Theorem.
+Reasoning, Opening Evelopes, Easy, Solved, 2024-01-31, Understand when to apply Monty Hall or instead use a simple case of Bayes' Theorem.
