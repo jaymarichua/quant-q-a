@@ -1,6 +1,6 @@
 category, name, difficulty, solved, date, notes
 Probability, Two Cards from Deck, Easy, Solved, 2024-01-31, Calculate the probability of drawing an ace on the first draw i.e. P(Ace on 1st draw) = Number of aces/Deck multiplied by the probability of drawing another ace P(Ace on 2nd draw) = Number of remaining aces/Remaining cards in deck.
-Probability, Drawing a Pair, Easy, Solved, 2024-01-31, Draing any of the first card from a standard deck multiplied by drawing remaining three other cards with the same rank in the deck.
+Probability, Drawing a Pair, Easy, Solved, 2024-01-31, Drawing any of the first card from a standard deck multiplied by drawing remaining three other cards with the same rank in the deck.
 Probability, Coin Flipping Game, Easy, Solved, 2024-01-31, Geometric series. P[A] = sum_{k=1 3 5}^inf p x frac{1-p}{2}^{(k-1)/2}.
 Probability, Coin on a Chessboard, Medium, Solved, 2024-01-31, Reasoning that since the radius of the coin is 0.5 and by considering the symmetry then divide A(coin) by A(chessboard).
 Probability, Double Headed Coin, Easy, Solved, 2024-01-31, Law of total probability.
